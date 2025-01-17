@@ -24,8 +24,8 @@ Data files are not uploaded for some Models due to their large size. Please feel
  | 3 | 3.6 |EDA various Datasets |
 | 4 | 3.9 | seaborn categorical plot |
 | 5 | 4.10 | seaborn visualization |
-| 5 | 4.9 | matplotlib 1 |
-| 5 | 5.12 | matplotlib 2 |
+| 6 | 4.9 | matplotlib 1 |
+| 7 | 5.12 | matplotlib 2 |
 
 
 
